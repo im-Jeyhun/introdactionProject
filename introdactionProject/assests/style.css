@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top {
+
+    width: 100%;
+    height: 100px;
+    background-color:rgb(45, 43, 43);
+    text-align: center;
+}
+
+.top .marq {
+    color:white;
+    padding-top: 40px;
+    font-size: 25px;
+    text-shadow: 5px 5px  black ;
+    
+}
+
+.fs h1 {
+
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.location p {
+    font-size: 20px;
+}
+.location {
+    text-align: center;
+    
+}
+
+.location iframe {
+
+    border-radius: 10px;
+}
+
+.reg {
+
+   margin-left: 40%;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    
+    background-image: url(https://cdn.pixabay.com/photo/2018/05/04/15/49/cyber-security-3374252_960_720.jpg);
+    background-position: center;
+}
+
+.reg h4 , p , label{
+    color: white;
+}
+
+.reg h4 {
+
+    font-size: 25px;
+}
+
+.reg form :first-child {
+
+
+    padding-right: 19px;
+
+    
+}
+.reg form :nth-child(3n){
+    padding-right: 19px;
+}
+
